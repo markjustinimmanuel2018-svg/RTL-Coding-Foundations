@@ -6,7 +6,7 @@ This repository contains a collection of RTL mini projects developed as part of 
 
 
 
--> This repository represents **Phase-1 (Cycle-1 of 3)** of my RTL learning journey, focused on mastering the fundamentals of synthesizable RTL design and verification.
+-> This repository represents **Phase-1 Cycle-1: RTL Coding Foundations** of my RTL learning journey, focused on mastering the fundamentals of synthesizable RTL design and verification.
 
 
 
@@ -25,7 +25,7 @@ The goal of this repository is to:
 
 
 
-RTL-Coding/
+RTL-Coding-Foundations/
 
 |-- Week-1/  # Mini ALU (Combinational Logic)
 
@@ -53,17 +53,17 @@ Each folder contains:
 
 
 
-| Week | Project | Key Concepts |
+| Week |           Project            |               Key Concepts                |
 
-|------|---------|--------------|
+|------|------------------------------|-------------------------------------------|
 
-| 1 | Mini ALU | Combinational logic, case statements |
+|   1  |           Mini ALU           |   Combinational logic, case statements    |
 
-| 2 | Mod-10 Up/down Counter | Sequential logic, counters, clock \& reset |
+|   2  |    Mod-10 Up/down Counter    | Sequential logic, counters, clock \& reset |
 
-| 3 | Sequence Detector FSM (1011) | Moore FSM, overlapping detection | 
+|   3  | Sequence Detector FSM (1011) |     Moore FSM, overlapping detection      | 
 
-| 4 | Traffic Light Controller | Timed FSM, controller design |
+|   4  |   Traffic Light Controller   |       Timed FSM, controller design        |
 
 
 
