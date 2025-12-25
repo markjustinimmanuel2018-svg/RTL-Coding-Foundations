@@ -1,27 +1,60 @@
 **# Week 1 Mini Project - Mini ALU (Combinational Logic)**
 
+
+
 This project implements a simple combinational logic block (Mini ALU) using Verilog and verifies it using a testbench.
 
 
-**# Files**
+
+-----------------------------------------------------------
+
+**## Files**
+
+
 
 * mini\_alu.v     : RTL design of the Mini ALU
 * tb\_mini\_alu.v  : Testbench to verify the design
 
 
-**# Operations**
 
-* sel=00 --> AND
-* sel=01 --> OR
-* sel=10 --> XOR
-* sel=11 --> NOT
+-----------------------------------------------------------
+
+**## Operations**
 
 
-**# Tools Used**
+
+* sel = 00 --> AND
+* sel = 01 --> OR
+* sel = 10 --> XOR
+* sel = 11 --> NOT a
+
+
+
+-----------------------------------------------------------
+
+**## Tools Used**
+
+
 
 * Verilog HDL
-* Simulator: EDA Playground/ModelSim
+* Simulator: ModelSim / EDA Playground
 
 
-**AUTHOR :** MARK JUSTIN
+
+-----------------------------------------------------------
+
+**## What I Learned**
+
+
+
+* Writing combinational RTL using '**always@(\*)**'
+* Using '**case**' statements for control logic
+* Building a basic directed testbench
+* Functional verification through simulation
+
+
+
+-----------------------------------------------------------
+
+**# Author :** MARK JUSTIN
 
