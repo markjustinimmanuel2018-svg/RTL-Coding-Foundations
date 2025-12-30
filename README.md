@@ -28,9 +28,13 @@ The goal of this repository is to:
 RTL-Coding-Foundations/
 
  ├──  Week-1/  # Mini ALU (Combinational Logic) 
+
  ├──  Week-2/  # Mod-10 Up/Down Counter
+
  ├──  Week-3/  # Sequence Detector FSM (1011)
+
  ├──  Week-4/  # traffic Light Controller FSM
+
  └──  README.md
 
 
